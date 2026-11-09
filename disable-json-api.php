@@ -1,11 +1,12 @@
 <?php
 /**
- * Plugin Name: Disable REST API
+ * Plugin Name: Disable REST API — Afterware
  * Plugin URI: http://www.binarytemplar.com/disable-json-api
+ * Update URI: https://updates.afterware.io/disable-json-api
  * Description: Disable the use of the REST API on your website to anonymous users. You can optionally enable select endpoints if you wish. Now with support for User Roles!
- * Version: 1.8
- * Requires at least: 4.9
- * Requires PHP: 5.6
+ * Version: 1.8.0.1
+ * Requires at least: 6.8.3
+ * Requires PHP: 8.3.28
  * Author: Dave McHale
  * Author URI: http://www.binarytemplar.com
  * License: GPL2+
